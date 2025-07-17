@@ -1,0 +1,18 @@
+body {
+  background-color: #eef1f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.form-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 20px;
+  box-shadow: 5px 5px 3px 7px blue;
+}
+
+.form-box {
+  background-color: rgb(26, 255, 0);
+  padding: 30px;
+  border-radius: 12px;
+}
